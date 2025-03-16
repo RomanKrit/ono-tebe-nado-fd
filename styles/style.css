@@ -309,7 +309,7 @@
     font-size: 20px;
     line-height: normal;
 }
-.no__break{
+.about__text__break{
     display: inline-block;
     white-space: nowrap;
 }
